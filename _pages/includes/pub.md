@@ -8,7 +8,7 @@
 
 Huangyue Yu, Minjie Cai, **Yunfei Liu**, Feng Lu
 
-**Project | IF=17.730** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Project | IF=17.730** 
 - We propose a multi-branch deep network, which extracts cross-view joint attention and shared representation from static frames with spatial constraints, in a self-supervised and simultaneous manner.
 - We demonstrate how the learnt joint information can benefit various applications.
 </div>
@@ -23,7 +23,7 @@ Huangyue Yu, Minjie Cai, **Yunfei Liu**, Feng Lu
 
 Mingfang Zhang, **Yunfei Liu**, Feng Lu
 
-[**Project**](https://github.com/mf-zhang/GazeOnce) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/mf-zhang/GazeOnce) 
 - GazeOnce is the first one-stage endto-end gaze estimation method.
 - This unified framework not only offers a faster speed, but also provides a lower gaze estimation error compared with other SOTA methods.
 </div>
@@ -38,7 +38,7 @@ Mingfang Zhang, **Yunfei Liu**, Feng Lu
 
 **Yunfei Liu**\*, Ruicong Liu\*, Haofei Wang, Feng Lu
 
-[**Project**](projects/iccv21/index.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](projects/iccv21/index.html) <strong><span class='show_paper_citations' data='B1Z1vTMAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 - PnP-GA is an ensemble of networks that learn collaboratively with the guidance of outliers.
 - Existing gaze estimation networks can be directly plugged into PnP-GA and generalize the algorithms to new domains.
 </div>
@@ -54,7 +54,7 @@ Mingfang Zhang, **Yunfei Liu**, Feng Lu
 
 **Yunfei Liu**, Yu Li, Shaodi You, Feng Lu
 
-[**Project** ![](https://img.shields.io/github/stars/DreamtaleCore/USI3D?style=social)](projects/cvpr20/index.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project** ![](https://img.shields.io/github/stars/DreamtaleCore/USI3D?style=social)](projects/cvpr20/index.html) <strong><span class='show_paper_citations' data='B1Z1vTMAAAAJ:qjMakFHDy7sC'></span></strong>
 - USI3D is the first intrinsic image decomposition method that learns from uncorrelected image sets.
 - **Academic Impact:** This work is included by many low-level vision projects, such as [Relighting4D ![](https://img.shields.io/github/stars/FrozenBurning/Relighting4D?style=social)](https://github.com/FrozenBurning/Relighting4D), [IntrinsicHarmony](https://github.com/zhenglab/IntrinsicHarmony), [DIB-R++](https://nv-tlabs.github.io/DIBRPlus/). Discussions in [Zhihu](https://zhuanlan.zhihu.com/p/269632886).
 </div>
@@ -69,7 +69,7 @@ Mingfang Zhang, **Yunfei Liu**, Feng Lu
 
 **Yunfei Liu**, Xingju Ma, James Bailey, Feng Lu
 
-[**Project | (Citations 290+**)] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project | (Citations 290+**)] <strong><span class='show_paper_citations' data='ueU8eIwAAAAJ:d1gkVwhDpl0C'></span></strong>
 - We present a new type of backdoor attack: natural reflection phenomenon.
 - **Academic Impact:** This work is included by many backdoor attack/defense works, Such as [NAD ![](https://img.shields.io/github/stars/bboylyg/NAD?style=social)](https://github.com/bboylyg/NAD). This work is at the first place at [google scholar](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=backdoor+attack&btnG=) .
 </div>
