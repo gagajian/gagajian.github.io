@@ -1,1 +1,2 @@
-bundle exec jekyll liveservebundle clean
+bundle exec jekyll liveserve 
+bundle clean
