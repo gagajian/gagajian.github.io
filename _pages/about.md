@@ -35,4 +35,4 @@ redirect_from:
 - *2022.03 - 2022.10*, [IDEA](https://www.idea.edu.cn), Vistring Lab, Shenzhen, China.
 - *2016.07 - 2017.05*, [DJI](https://www.dji.com/cn), Visual Perception Group, Shenzhen, China.
 
-<center> <i><font color=Gray>Last updated on June 2023</font></i> </center>
+<center> <i><font color=Gray>Last updated on July 2023</font></i> </center>

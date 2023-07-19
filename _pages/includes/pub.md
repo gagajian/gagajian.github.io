@@ -1,6 +1,22 @@
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/papers/iccv23-moda.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](http://arxiv.org/abs/xxxx.yyyyy)
+
+**Yunfei Liu**, Lijian Lin, Fei Yu, Changyin ZHou, Yu Li
+
+[**Project**](projects/iccv23-moda/index.html)
+- We propose a unified system for multi-person, diverse, and high-fidelity talking portrait video generation. 
+- Extensive evaluations demonstrate that the proposed system produces more natural and realistic video portraits compared to previous methods.
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/tpami-23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -69,12 +85,13 @@ Mingfang Zhang, **Yunfei Liu**, Feng Lu
 
 **Yunfei Liu**, Xingju Ma, James Bailey, Feng Lu
 
-[**Project | (Citations 290+**)] <strong><span class='show_paper_citations' data='ueU8eIwAAAAJ:d1gkVwhDpl0C'></span></strong>
+[**Project | (Citations 300+**)] <strong><span class='show_paper_citations' data='ueU8eIwAAAAJ:d1gkVwhDpl0C'></span></strong>
 - We present a new type of backdoor attack: natural reflection phenomenon.
 - **Academic Impact:** This work is included by many backdoor attack/defense works, Such as [NAD ![](https://img.shields.io/github/stars/bboylyg/NAD?style=social)](https://github.com/bboylyg/NAD). This work is at the first place at [google scholar](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=backdoor+attack&btnG=) .
 </div>
 </div>
 
+- `ICCV 2023` [Accurate 3D Face Reconstruction with Facial Component Tokens](https://liuyunfei.net/), Tianke Zhang, Xuangeng Chu, **Yunfei Liu**, Lijian Lin, Zhendong Yang, _etc._.
 - `CVMJ 2023` [Discriminative feature encoding for intrinsic image decomposition](https://phi-ai.buaa.edu.cn/publications/index.htm), Zhongji Wang, **Yunfei Liu**, Feng Lu.
 - `CVPR 2022` [Generalizing Gaze Estimation with Rotation Consistency](https://openaccess.thecvf.com/content/CVPR2022/papers/Bao_Generalizing_Gaze_Estimation_With_Rotation_Consistency_CVPR_2022_paper.pdf), Yiwei Bao, **Yunfei Liu**, Haofei Wang, Feng Lu.
 - `IEEE-VR 2022` [Reconstructing 3D Virtual Face with Eye Gaze from a Single Image](https://phi-ai.buaa.edu.cn/publications/index.htm), Jiadong Liang, **Yunfei Liu**, Feng Lu. [<font color=Red>Oral</font>]
