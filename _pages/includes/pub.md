@@ -5,7 +5,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/papers/iccv23-moda.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](http://arxiv.org/abs/xxxx.yyyyy)
+[MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://arxiv.org/abs/2307.10008)
 
 **Yunfei Liu**, Lijian Lin, Fei Yu, Changyin ZHou, Yu Li
 
