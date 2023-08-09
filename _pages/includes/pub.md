@@ -92,6 +92,7 @@ Mingfang Zhang, **Yunfei Liu**, Feng Lu
 </div>
 
 - `ICCV 2023` [Accurate 3D Face Reconstruction with Facial Component Tokens](https://liuyunfei.net/), Tianke Zhang, Xuangeng Chu, **Yunfei Liu**, Lijian Lin, Zhendong Yang, _et al._.
+- `arXiv 2023` [Visibility Enhancement for Low-light Hazy Scenarios](https://arxiv.org/abs/2308.00591), Chaoqun Zhuang, **Yunfei Liu**, Sijia Wen, Feng Lu.
 - `CVMJ 2023` [Discriminative feature encoding for intrinsic image decomposition](https://phi-ai.buaa.edu.cn/publications/index.htm), Zhongji Wang, **Yunfei Liu**, Feng Lu.
 - `CVPR 2022` [Generalizing Gaze Estimation with Rotation Consistency](https://openaccess.thecvf.com/content/CVPR2022/papers/Bao_Generalizing_Gaze_Estimation_With_Rotation_Consistency_CVPR_2022_paper.pdf), Yiwei Bao, **Yunfei Liu**, Haofei Wang, Feng Lu.
 - `IEEE-VR 2022` [Reconstructing 3D Virtual Face with Eye Gaze from a Single Image](https://phi-ai.buaa.edu.cn/publications/index.htm), Jiadong Liang, **Yunfei Liu**, Feng Lu. [<font color=Red>Oral</font>]
@@ -102,7 +103,7 @@ Mingfang Zhang, **Yunfei Liu**, Feng Lu
 - `BMVC 2021` [Separating Content and Style for Unsupervised Image-to-Image Translation](https://arxiv.org/abs/2110.14404), **Yunfei Liu**, Haofei Wang, Yang Yue, Feng Lu. [GitHub](https://github.com/DreamtaleCore/SCS-UIT).
 - `arXiv 2021` [Unsupervised Two-Stage Anomaly Detection](https://arxiv.org/pdf/2103.11671.pdf), **Yunfei Liu**, Chaoqun Zhuang, Feng Lu, [GitHub](https://github.com/DreamtaleCore/UTAD).
 - `arXiv 2021` [Cloud Sphere: A 3D Shape Representation via Progressive Deformation](https://arxiv.org/abs/2112.11133), Zongji Wang, **Yunfei Liu**, Feng Lu.
-- `arXiv 2021` [Vulnerability of Appearance-based Gaze Estimation](https://arxiv.org/abs/2112.11133), Zongji Wang, **Yunfei Liu**, Feng Lu.
+- `arXiv 2021` [Vulnerability of Appearance-based Gaze Estimation](https://arxiv.org/abs/2103.13134), Mingjie Xu, Haofei Wang, **Yunfei Liu**, Feng Lu.
 - `AAAI 2020` [Separate In Latent Space: Unsupervised Single Image Layer Separation](https://arxiv.org/abs/1906.00734), **Yunfei Liu**, Feng Lu. [GitHub](https://github.com/DreamtaleCore/SILS) [<font color=Red>Oral</font>]
 - `ICPR 2020` [Adaptive Feature Fusion Network for Gaze Tracking in Mobile Tablets](https://arxiv.org/abs/2103.11119), Yiwei Bao, Yihua Cheng, **Yunfei Liu**, Feng Lu. [GitHub](https://github.com/kirito12138/AFF-Net).
 - `ACM-MM 2019` [What I See Is What You See: Joint Attention Learning for First and Third Person Video Co-analysis](https://arxiv.org/abs/1904.07424), Huangyue Yu, Minjie Cai, **Yunfei Liu**, Feng Lu.
