@@ -7,7 +7,7 @@
 
 [MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions](https://arxiv.org/abs/2307.10008)
 
-**Yunfei Liu**, Lijian Lin, Fei Yu, Changyin ZHou, Yu Li
+**Yunfei Liu**, Lijian Lin, Fei Yu, Changyin Zhou, Yu Li
 
 [**Project**](projects/iccv23-moda/index.html)
 - We propose a unified system for multi-person, diverse, and high-fidelity talking portrait video generation. 
