@@ -91,6 +91,8 @@ Mingfang Zhang, **Yunfei Liu**, Feng Lu
 </div>
 </div>
 
+- `arXiv 2024` [DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation](https://jeremycjm.github.io/proj/DiffSHEG), Junming Chen, **Yunfei Liu**,
+Jianan Wang, Ailing Zeng, Yu Li, Qifeng Chen
 - `ICCV 2023` [Accurate 3D Face Reconstruction with Facial Component Tokens](https://liuyunfei.net/), Tianke Zhang, Xuangeng Chu, **Yunfei Liu**, Lijian Lin, Zhendong Yang, _et al._.
 - `arXiv 2023` [Visibility Enhancement for Low-light Hazy Scenarios](https://arxiv.org/abs/2308.00591), Chaoqun Zhuang, **Yunfei Liu**, Sijia Wen, Feng Lu.
 - `CVMJ 2023` [Discriminative feature encoding for intrinsic image decomposition](https://phi-ai.buaa.edu.cn/publications/index.htm), Zhongji Wang, **Yunfei Liu**, Feng Lu.
