@@ -91,6 +91,7 @@ Mingfang Zhang, **Yunfei Liu**, Feng Lu
 </div>
 </div>
 
+- `ICLR 2024` GPAvatar: Generalizable and Precise Head Avatar from Image(s), Xuangeng Chu, Yu Li, Ailing Zeng, Tianyu Yang, Lijian Lin, **Yunfei Liu**, Tatsuya Harada
 - `arXiv 2024` [DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation](https://jeremycjm.github.io/proj/DiffSHEG), Junming Chen, **Yunfei Liu**,
 Jianan Wang, Ailing Zeng, Yu Li, Qifeng Chen
 - `arXiv 2023` [A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing](https://stem-inv.github.io/page/), Maomao Li, Yu Li, Tianyu Yang, **Yunfei Liu**, Dongxu Yue, Zhihui Lin, Dong Xu
