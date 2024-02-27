@@ -1,4 +1,5 @@
 # 🔥 News
+- *[February, 2024]:  🎉 Two [CVPR](https://cvpr2024.thecvf.com/) papers have been accepted.
 - *[Jan, 2024]*: &nbsp;🎉 Our `GPAvatar` has been accepted by ICLR 2024.
 - *[December, 2023]*: &nbsp;🎉 Our `PnP-GA+` has been accepted by TPAMI.
 - *[July, 2023]*: &nbsp;🎉 Two [ICCV](https://iccv2023.thecvf.com) papers have been accepted.
