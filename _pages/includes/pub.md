@@ -1,6 +1,19 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/DiffSHEG_Demo.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation](https://arxiv.org/abs/2401.04747)
+
+Junming Chen, **Yunfei Liu**, Jianan Wang, Ailing Zeng, Yu Li, Qifeng Chen
+
+[**Project**](https://jeremycjm.github.io/proj/DiffSHEG)
+- We propose DiffSHEG, a Diffusion-based approach for Speech-driven Holistic 3D Expression and Gesture generation with arbitrary length.
+- Our diffusion-based co-speech motion generation transformer enables uni-directional information flow from expression to gesture, facilitating improved matching of joint expression-gesture distributions
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/papers/iccv23-moda.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -90,11 +103,8 @@ Mingfang Zhang, **Yunfei Liu**, Feng Lu
 - **Academic Impact:** This work is included by many backdoor attack/defense works, Such as [NAD ![](https://img.shields.io/github/stars/bboylyg/NAD?style=social)](https://github.com/bboylyg/NAD). This work is at the first place at [google scholar](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=backdoor+attack&btnG=) .
 </div>
 </div>
-
+- `CVPR2024` [A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing](https://stem-inv.github.io/page/), Maomao Li, Yu Li, Tianyu Yang, **Yunfei Liu**, Dongxu Yue, Zhihui Lin, Dong Xu
 - `ICLR 2024` GPAvatar: Generalizable and Precise Head Avatar from Image(s), Xuangeng Chu, Yu Li, Ailing Zeng, Tianyu Yang, Lijian Lin, **Yunfei Liu**, Tatsuya Harada
-- `arXiv 2024` [DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation](https://jeremycjm.github.io/proj/DiffSHEG), Junming Chen, **Yunfei Liu**,
-Jianan Wang, Ailing Zeng, Yu Li, Qifeng Chen
-- `arXiv 2023` [A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing](https://stem-inv.github.io/page/), Maomao Li, Yu Li, Tianyu Yang, **Yunfei Liu**, Dongxu Yue, Zhihui Lin, Dong Xu
 - `ICCV 2023` [Accurate 3D Face Reconstruction with Facial Component Tokens](https://liuyunfei.net/), Tianke Zhang, Xuangeng Chu, **Yunfei Liu**, Lijian Lin, Zhendong Yang, _et al._.
 - `arXiv 2023` [Visibility Enhancement for Low-light Hazy Scenarios](https://arxiv.org/abs/2308.00591), Chaoqun Zhuang, **Yunfei Liu**, Sijia Wen, Feng Lu.
 - `CVMJ 2023` [Discriminative feature encoding for intrinsic image decomposition](https://phi-ai.buaa.edu.cn/publications/index.htm), Zhongji Wang, **Yunfei Liu**, Feng Lu.
