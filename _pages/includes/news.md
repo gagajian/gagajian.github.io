@@ -1,6 +1,8 @@
 # 🔥 News
+- *[August, 2024]*: I will serve as a Program Committee for [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).
+- *[July, 2024]*: One paper is accepted to ECCV 2024.
 - *[February, 2024]*:  🎉 Two [CVPR](https://cvpr2024.thecvf.com/) papers have been accepted.
-- *[Jan, 2024]*: &nbsp;🎉 Our `GPAvatar` has been accepted by ICLR 2024.
+- *[Jan, 2024]*: &nbsp;🎉 Our `GPAvatar` has been accepted to ICLR 2024.
 - *[December, 2023]*: &nbsp;🎉 Our `PnP-GA+` has been accepted by TPAMI.
 - *[July, 2023]*: &nbsp;🎉 Two [ICCV](https://iccv2023.thecvf.com) papers have been accepted.
 - *[June, 2023]*: &nbsp;🎉 One [TPAMI](https://ieeexplore.ieee.org/document/9220850) paper has been published.
