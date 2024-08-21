@@ -103,8 +103,8 @@ Mingfang Zhang, **Yunfei Liu**, Feng Lu
 - **Academic Impact:** This work is included by many backdoor attack/defense works, Such as [NAD ![](https://img.shields.io/github/stars/bboylyg/NAD?style=social)](https://github.com/bboylyg/NAD). This work is at the first place at [google scholar](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=backdoor+attack&btnG=) .
 </div>
 </div>
-- `ECCV2024` [AddMe: Zero-shot Group-photo Synthesis by Inserting People into Scenes](liuyunfei.net), Dongxu Yue, Maomao Li, **Yunfei Liu**, Ailing Zeng, Tianyu Yang, Qin Guo, Yu Li 
-- `CVPR2024` [A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing](https://stem-inv.github.io/page/), Maomao Li, Yu Li, Tianyu Yang, **Yunfei Liu**, Dongxu Yue, Zhihui Lin, Dong Xu
+- `ECCV 2024` [AddMe: Zero-shot Group-photo Synthesis by Inserting People into Scenes](liuyunfei.net), Dongxu Yue, Maomao Li, **Yunfei Liu**, Ailing Zeng, Tianyu Yang, Qin Guo, Yu Li 
+- `CVPR 2024` [A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing](https://stem-inv.github.io/page/), Maomao Li, Yu Li, Tianyu Yang, **Yunfei Liu**, Dongxu Yue, Zhihui Lin, Dong Xu
 - `ICLR 2024` GPAvatar: Generalizable and Precise Head Avatar from Image(s), Xuangeng Chu, Yu Li, Ailing Zeng, Tianyu Yang, Lijian Lin, **Yunfei Liu**, Tatsuya Harada
 - `PRCV 2024` [Visibility Enhancement for Low-light Hazy Scenarios](https://arxiv.org/abs/2308.00591), Chaoqun Zhuang, **Yunfei Liu**, Sijia Wen, Feng Lu.
 - `ICCV 2023` [Accurate 3D Face Reconstruction with Facial Component Tokens](https://liuyunfei.net/), Tianke Zhang, Xuangeng Chu, **Yunfei Liu**, Lijian Lin, Zhendong Yang, _et al._.
