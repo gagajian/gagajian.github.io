@@ -1,4 +1,5 @@
 # 🔥 News
+- *[December, 2024]*: One [AAAI](https://aaai.org/Conferences/AAAI-25/) paper has been accepted.
 - *[August, 2024]*: I will serve as a Program Committee for [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).
 - *[July, 2024]*: One paper is accepted to ECCV 2024.
 - *[February, 2024]*:  🎉 Two [CVPR](https://cvpr2024.thecvf.com/) papers have been accepted.
