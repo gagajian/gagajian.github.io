@@ -1,6 +1,29 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/iclr25-teaser.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TEASER: Token Enhanced Spatial Modeling for Expressions Reconstruction](https://iclr.cc/virtual/2025/poster/28296)
+
+**Yunfei Liu**, Lei Zhu, Lijian Lin, Ye Zhu, Ailing Zhang, Yu Li
+
+[**Project**](projects/iclr25/index.html)
+- A novel approach that achieves more accurate facial expression reconstruction by predicting a hybrid representation of faces from a single image. 
+- A multi-scale facial appearance tokenizer and a token-guided neural renderer to generate high-fidelity facial images. The extracted token is interpretable and highly disentangled, enabling various downstream applications.
+</div>
+</div>
+
+[DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation](https://arxiv.org/abs/2401.04747)
+
+Junming Chen, **Yunfei Liu**, Jianan Wang, Ailing Zeng, Yu Li, Qifeng Chen
+
+[**Project**](https://jeremycjm.github.io/proj/DiffSHEG)
+- We propose DiffSHEG, a Diffusion-based approach for Speech-driven Holistic 3D Expression and Gesture generation with arbitrary length.
+- Our diffusion-based co-speech motion generation transformer enables uni-directional information flow from expression to gesture, facilitating improved matching of joint expression-gesture distributions
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/papers/iccv23-moda.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -90,9 +113,12 @@ Mingfang Zhang, **Yunfei Liu**, Feng Lu
 - **Academic Impact:** This work is included by many backdoor attack/defense works, Such as [NAD ![](https://img.shields.io/github/stars/bboylyg/NAD?style=social)](https://github.com/bboylyg/NAD). This work is at the first place at [google scholar](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=backdoor+attack&btnG=) .
 </div>
 </div>
-
+- `AAAI 2025` [AnyTalk: Multi-modal Driven Multi-domain Talking Head Generation](https://anytalker.github.io/), Yu Wang, **Yunfei Liu**, Fa-Ting Hong, Meng Cao, Lijian Lin, Yu Li
+- `ECCV 2024` [AddMe: Zero-shot Group-photo Synthesis by Inserting People into Scenes](liuyunfei.net), Dongxu Yue, Maomao Li, **Yunfei Liu**, Ailing Zeng, Tianyu Yang, Qin Guo, Yu Li 
+- `CVPR 2024` [A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing](https://stem-inv.github.io/page/), Maomao Li, Yu Li, Tianyu Yang, **Yunfei Liu**, Dongxu Yue, Zhihui Lin, Dong Xu
+- `ICLR 2024` GPAvatar: Generalizable and Precise Head Avatar from Image(s), Xuangeng Chu, Yu Li, Ailing Zeng, Tianyu Yang, Lijian Lin, **Yunfei Liu**, Tatsuya Harada
+- `PRCV 2024` [Visibility Enhancement for Low-light Hazy Scenarios](https://arxiv.org/abs/2308.00591), Chaoqun Zhuang, **Yunfei Liu**, Sijia Wen, Feng Lu.
 - `ICCV 2023` [Accurate 3D Face Reconstruction with Facial Component Tokens](https://liuyunfei.net/), Tianke Zhang, Xuangeng Chu, **Yunfei Liu**, Lijian Lin, Zhendong Yang, _et al._.
-- `arXiv 2023` [Visibility Enhancement for Low-light Hazy Scenarios](https://arxiv.org/abs/2308.00591), Chaoqun Zhuang, **Yunfei Liu**, Sijia Wen, Feng Lu.
 - `CVMJ 2023` [Discriminative feature encoding for intrinsic image decomposition](https://phi-ai.buaa.edu.cn/publications/index.htm), Zhongji Wang, **Yunfei Liu**, Feng Lu.
 - `CVPR 2022` [Generalizing Gaze Estimation with Rotation Consistency](https://openaccess.thecvf.com/content/CVPR2022/papers/Bao_Generalizing_Gaze_Estimation_With_Rotation_Consistency_CVPR_2022_paper.pdf), Yiwei Bao, **Yunfei Liu**, Haofei Wang, Feng Lu.
 - `IEEE-VR 2022` [Reconstructing 3D Virtual Face with Eye Gaze from a Single Image](https://phi-ai.buaa.edu.cn/publications/index.htm), Jiadong Liang, **Yunfei Liu**, Feng Lu. [<font color=Red>Oral</font>]
