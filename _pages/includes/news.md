@@ -1,5 +1,5 @@
 # 🔥 News
-- *[Jan, 2025]*: &nbsp;🎉 Our `TEASER` has been accepted to ICLR 2024.
+- *[Jan, 2025]*: &nbsp;🎉 Our `TEASER` has been accepted to ICLR 2025.
 - *[December, 2024]*: One [AAAI](https://aaai.org/Conferences/AAAI-25/) paper has been accepted.
 - *[August, 2024]*: I will serve as a Program Committee for [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).
 - *[July, 2024]*: One paper is accepted to ECCV 2024.
