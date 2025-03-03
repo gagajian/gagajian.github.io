@@ -9,7 +9,7 @@
 
 **Yunfei Liu**, Lei Zhu, Lijian Lin, Ye Zhu, Ailing Zhang, Yu Li
 
-[**Project**](projects/iclr25/index.html)
+[**Project**](https://tinyurl.com/TEASER-project) | [**Code**](https://github.com/julia-cherry/Teaser_official) 
 - A novel approach that achieves more accurate facial expression reconstruction by predicting a hybrid representation of faces from a single image. 
 - A multi-scale facial appearance tokenizer and a token-guided neural renderer to generate high-fidelity facial images. The extracted token is interpretable and highly disentangled, enabling various downstream applications.
 </div>
