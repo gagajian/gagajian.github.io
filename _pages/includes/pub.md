@@ -7,9 +7,9 @@
 
 [TEASER: Token Enhanced Spatial Modeling for Expressions Reconstruction](https://iclr.cc/virtual/2025/poster/28296)
 
-**Yunfei Liu**, Lei Zhu, Lijian Lin, Ye Zhu, Ailing Zhang, Yu Li
+**Yunfei Liu\***, Lei Zhu\*, Lijian Lin, Ye Zhu, Ailing Zhang, Yu Li
 
-[**Project**](https://tinyurl.com/TEASER-project) | [**Code**](https://github.com/julia-cherry/Teaser_official) 
+[**Project**](https://tinyurl.com/TEASER-project) | [**Code**](https://github.com/Pixel-Talk/TEASER) 
 - A novel approach that achieves more accurate facial expression reconstruction by predicting a hybrid representation of faces from a single image. 
 - A multi-scale facial appearance tokenizer and a token-guided neural renderer to generate high-fidelity facial images. The extracted token is interpretable and highly disentangled, enabling various downstream applications.
 </div>
