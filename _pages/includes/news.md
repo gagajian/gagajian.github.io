@@ -1,6 +1,7 @@
 # 🔥 News
+- *[May, 2025]*: &nbsp;🎉 The [code](https://github.com/Pixel-Talk/HRAvatar) of `HRAvatar` has been released.
 - *[March, 2025]*: &nbsp;🎉 The [code](https://github.com/julia-cherry/Teaser_official) of `TEASER` has been released.
-- *[February, 2025]*: &nbsp;🎉 Our `HRAvatar` has been accepted to CVPR 2025. Code and demo will be avaiable soon!
+- *[February, 2025]*: &nbsp;🎉 Our `HRAvatar` has been accepted to CVPR 2025. 
 - *[Jan, 2025]*: &nbsp;🎉 Our `TEASER` has been accepted to ICLR 2025.
 - *[December, 2024]*: One [AAAI](https://aaai.org/Conferences/AAAI-25/) paper has been accepted.
 - *[August, 2024]*: I will serve as a Program Committee for [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).
