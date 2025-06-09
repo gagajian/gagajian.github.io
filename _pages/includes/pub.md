@@ -2,6 +2,20 @@
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/papers/HR-Avatar.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HRAvatar: High-Quality and Relightable Gaussian Head Avatar](http://arxiv.org/abs/2503.08224)
+
+Dongbin Zhang, **Yunfei Liu**, Lijian Lin, Ye Zhu, Kangjie Chen, Minghan Qin, Yu Li, Haoqian Wang
+
+[**Project**](https://eastbeanzhang.github.io/HRAvatar/) | [**Code**](https://github.com/Pixel-Talk/HRAvatar) 
+- We propose HRAvatar, a 3D Gaussian Splatting-based method that reconstructs high-fidelity, relightable 3D head avatars from monocular videos by jointly optimizing tracking, deformation, and appearance modeling. 
+- By leveraging learnable blendshapes, physically-based shading, and end-to-end optimization, HRAvatar significantly improves head quality and realism under novel lighting conditions.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/papers/iclr25-teaser.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
