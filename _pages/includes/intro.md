@@ -1,5 +1,5 @@
 [](echo/) Hi there👋🏻, I am Yunfei (☁️🪽), a researcher at [International Digital Economy Academy (IDEA)](https://idea.edu.cn)<img src='./images/idea.jpg' style='width: 2.5em;'>. 
-I am now working on talking head generation, face tracking, and video content generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [liuyunfei@idea.edu.cn](liuyunfei@idea.edu.cn).
+I am now leading an effort on talking head generation, face tracking, humuan video generation, human-centric 3DGS and video content generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [liuyunfei@idea.edu.cn](liuyunfei@idea.edu.cn).
 
 I got my Ph.D. degree from Beihang University, advised by Prof. [Feng Lu](http://shi.buaa.edu.cn/lufeng/en/index.htm). Previously, I received my BSc degree in Computer Science from Beijing Institute of Technology in 2017.
 
