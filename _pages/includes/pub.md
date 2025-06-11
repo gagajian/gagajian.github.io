@@ -1,6 +1,20 @@
 
 # 📝 Publications 
 
+> 📩 is corresponding author, 📌 is co-first author.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/papers/guava.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GUAVA: Generalizable Upper Body 3D Gaussian Avatar](https://arxiv.org/abs/2505.03351v1)
+
+Dongbin Zhang, **Yunfei Liu📩**, Lijian Lin, Ye Zhu, Yang Li, Minghan Qin, Yu Li2, Haoqian Wang📩
+
+[**Project**](https://eastbeanzhang.github.io/GUAVA/) | [**Video**](https://youtu.be/ylyTO34l5d0) 
+- ⚡️ Reconstructs 3D upper-body Gaussian avatars from single image in 0.1s 
+- ⏱️ Supports real-time expressive animation and novel view synthesis at 50FPS !
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/papers/HR-Avatar.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -21,7 +35,7 @@ Dongbin Zhang, **Yunfei Liu**, Lijian Lin, Ye Zhu, Kangjie Chen, Minghan Qin, Yu
 
 [TEASER: Token Enhanced Spatial Modeling for Expressions Reconstruction](https://iclr.cc/virtual/2025/poster/28296)
 
-**Yunfei Liu\***, Lei Zhu\*, Lijian Lin, Ye Zhu, Ailing Zhang, Yu Li
+**Yunfei Liu📌**, Lei Zhu📌, Lijian Lin, Ye Zhu, Ailing Zhang, Yu Li
 
 [**Project**](https://tinyurl.com/TEASER-project) | [**Code**](https://github.com/Pixel-Talk/TEASER) 
 - A novel approach that achieves more accurate facial expression reconstruction by predicting a hybrid representation of faces from a single image. 
@@ -94,7 +108,7 @@ Mingfang Zhang, **Yunfei Liu**, Feng Lu
 
 [Generalizing Gaze Estimation with Outlier-guided Collaborative Adaptation](http://arxiv.org/abs/2107.13780)
 
-**Yunfei Liu**\*, Ruicong Liu\*, Haofei Wang, Feng Lu
+**Yunfei Liu📌**, Ruicong Liu📌, Haofei Wang, Feng Lu
 
 [**Project**](projects/iccv21/index.html) <strong><span class='show_paper_citations' data='B1Z1vTMAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 - PnP-GA is an ensemble of networks that learn collaboratively with the guidance of outliers.

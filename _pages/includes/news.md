@@ -1,4 +1,5 @@
 # 🔥 News
+- *[May, 2025]*: &nbsp;🎉 We introcuce [**GUAVA**](https://eastbeanzhang.github.io/GUAVA/), a new Upper Body 3D Gaussian Avatar.
 - *[May, 2025]*: &nbsp;🎉 The [code](https://github.com/Pixel-Talk/HRAvatar) of `HRAvatar` has been released.
 - *[March, 2025]*: &nbsp;🎉 The [code](https://github.com/julia-cherry/Teaser_official) of `TEASER` has been released.
 - *[February, 2025]*: &nbsp;🎉 Our `HRAvatar` has been accepted to CVPR 2025. 
