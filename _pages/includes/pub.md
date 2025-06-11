@@ -3,7 +3,7 @@
 
 > 📩 is corresponding author, 📌 is co-first author.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/papers/guava.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/papers/guava.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GUAVA: Generalizable Upper Body 3D Gaussian Avatar](https://arxiv.org/abs/2505.03351v1)
