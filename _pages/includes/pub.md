@@ -1,14 +1,14 @@
 
 # 📝 Publications 
 
-> 📩 is corresponding author, 📌 is co-first author.
+> 📩 denotes corresponding author, 📌 denotes co-first author.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/papers/guava.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GUAVA: Generalizable Upper Body 3D Gaussian Avatar](https://arxiv.org/abs/2505.03351v1)
 
-Dongbin Zhang, **Yunfei Liu📩**, Lijian Lin, Ye Zhu, Yang Li, Minghan Qin, Yu Li2, Haoqian Wang📩
+Dongbin Zhang, **Yunfei Liu📩**, Lijian Lin, Ye Zhu, Yang Li, Minghan Qin, Yu Li, Haoqian Wang📩
 
 [**Project**](https://eastbeanzhang.github.io/GUAVA/) | [**Video**](https://youtu.be/ylyTO34l5d0) 
 - ⚡️ Reconstructs 3D upper-body Gaussian avatars from single image in 0.1s 
