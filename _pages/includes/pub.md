@@ -3,7 +3,7 @@
 
 > 📩 denotes corresponding author, 📌 denotes co-first author.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/papers/guava.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/guava.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GUAVA: Generalizable Upper Body 3D Gaussian Avatar](https://arxiv.org/abs/2505.03351v1)
@@ -146,6 +146,7 @@ Mingfang Zhang, **Yunfei Liu**, Feng Lu
 - **Academic Impact:** This work is included by many backdoor attack/defense works, Such as [NAD ![](https://img.shields.io/github/stars/bboylyg/NAD?style=social)](https://github.com/bboylyg/NAD). This work is at the first place at [google scholar](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=backdoor+attack&btnG=) .
 </div>
 </div>
+- `ICCV 2025` [CanonSwap: High-Fidelity and Consistent Video Face Swapping via Canonical Space Modulation](https://arxiv.org/html/2507.02691v1), Xiangyang Luo,  Ye Zhu,  **Yunfei Liu**, Lijian Lin,  Cong Wan,  Zijian Cai, Shao-Lun Huang, Yu Li2
 - `AAAI 2025` [AnyTalk: Multi-modal Driven Multi-domain Talking Head Generation](https://anytalker.github.io/), Yu Wang, **Yunfei Liu**, Fa-Ting Hong, Meng Cao, Lijian Lin, Yu Li
 - `ECCV 2024` [AddMe: Zero-shot Group-photo Synthesis by Inserting People into Scenes](liuyunfei.net), Dongxu Yue, Maomao Li, **Yunfei Liu**, Ailing Zeng, Tianyu Yang, Qin Guo, Yu Li 
 - `CVPR 2024` [A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing](https://stem-inv.github.io/page/), Maomao Li, Yu Li, Tianyu Yang, **Yunfei Liu**, Dongxu Yue, Zhihui Lin, Dong Xu
