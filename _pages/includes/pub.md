@@ -141,11 +141,14 @@ Mingfang Zhang, **Yunfei Liu**, Feng Lu
 
 **Yunfei Liu**, Xingju Ma, James Bailey, Feng Lu
 
-[**Project | (Citations 300+**)] <strong><span class='show_paper_citations' data='ueU8eIwAAAAJ:d1gkVwhDpl0C'></span></strong>
+[**Project | (Citations 750+**)] <strong><span class='show_paper_citations' data='ueU8eIwAAAAJ:d1gkVwhDpl0C'></span></strong>
 - We present a new type of backdoor attack: natural reflection phenomenon.
 - **Academic Impact:** This work is included by many backdoor attack/defense works, Such as [NAD ![](https://img.shields.io/github/stars/bboylyg/NAD?style=social)](https://github.com/bboylyg/NAD). This work is at the first place at [google scholar](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=backdoor+attack&btnG=) .
 </div>
 </div>
+
+- `TVCG 2025` [Qffusion: Controllable Portrait Video Editing via Quadrant-Grid Attention Learning](https://www.computer.org/csdl/journal/tg/5555/01/11106190/28NPQuwUsaA), Maomao Li, Lijian Lin, **Yunfei Liu📩**, Ye Zhu, Yu Li
+
 - `ICCV 2025` [CanonSwap: High-Fidelity and Consistent Video Face Swapping via Canonical Space Modulation](https://arxiv.org/html/2507.02691v1), Xiangyang Luo,  Ye Zhu,  **Yunfei Liu**, Lijian Lin,  Cong Wan,  Zijian Cai, Shao-Lun Huang, Yu Li
 - `AAAI 2025` [AnyTalk: Multi-modal Driven Multi-domain Talking Head Generation](https://anytalker.github.io/), Yu Wang, **Yunfei Liu**, Fa-Ting Hong, Meng Cao, Lijian Lin, Yu Li
 - `ECCV 2024` [AddMe: Zero-shot Group-photo Synthesis by Inserting People into Scenes](liuyunfei.net), Dongxu Yue, Maomao Li, **Yunfei Liu**, Ailing Zeng, Tianyu Yang, Qin Guo, Yu Li 
