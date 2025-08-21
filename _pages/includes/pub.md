@@ -98,7 +98,6 @@ enhanced features for video object detection.
 
 - `ICCV 2025` [CanonSwap: High-Fidelity and Consistent Video Face Swapping via Canonical Space Modulation](https://arxiv.org/html/2507.02691v1), Xiangyang Luo,  Ye Zhu,  Yunfei Liu, **Lijian Lin**,  Cong Wan,  Zijian Cai, Shao-Lun Huang, Yu Li
 - `AAAI 2025` [AnyTalk: Multi-modal Driven Multi-domain Talking Head Generation](https://anytalker.github.io/), Yu Wang, Yunfei Liu, Fa-Ting Hong, Meng Cao, **Lijian Lin**, Yu Li
-- `ECCV 2024` [AddMe: Zero-shot Group-photo Synthesis by Inserting People into Scenes]
 - `ICLR 2024` GPAvatar: Generalizable and Precise Head Avatar from Image(s), Xuangeng Chu, Yu Li, Ailing Zeng, Tianyu Yang, **Lijian Lin**, Yunfei Liu, Tatsuya Harada
 - `ICCV 2023` [Accurate 3D Face Reconstruction with Facial Component Tokens](https://liuyunfei.net/), Tianke Zhang, Xuangeng Chu, Yunfei Liu, **Lijian Lin**, Zhendong Yang, _et al._.
 - `AAAI 2023` [Tagging before alignment: Integrating multi-modal tags for video-text retrieval](https://ojs.aaai.org/index.php/AAAI/article/download/25113/24885), Yizhen Chen, Jie Wang, **Lijian Lin**, Zhongang Qi, Jin Ma, Ying Shan
