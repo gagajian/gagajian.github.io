@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "DreamTale"
+title                    : "Lijian Lin"
 description              : "Researcher at International Digital Economy Academy (IDEA), Vistring Lab. Focusing on human-centric computer vision and video content generation."
-repository               : "Yunfei-Liu/yunfei-liu.github.io"
+repository               : "gagajian/gagajian.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yunfei Liu (刘云飞)"
-  avatar           : "images/avatar-2.png"
+  name             : "Lijian Lin (林丽健)"
+  avatar           : "images/ljlin.jpg"
   bio              : "IDEA, Vistring Lab"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=B1Z1vTMAAAAJ"
-  email            : "liuyunfei@idea.edu.cn"
-  researchgate     :  https://www.researchgate.net/profile/Yunfei-Liu-17
+  googlescholar    : "https://scholar.google.com/citations?user=Xf5_TfcAAAAJ&hl=zh-CN"
+  email            : "linlijian@idea.edu.cn"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "DreamTaleCore"
+  github           : "gagajian"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : https://dblp.org/pid/136/3330.html
-  orcid            : https://orcid.org/0000-0001-6898-0058
+  linkedin         : https://www.linkedin.com/in/%E4%B8%BD%E5%81%A5-%E6%9E%97-3222061bb/
+  dblp             : https://dblp.org/pid/256/8466.html
+  orcid            : https://orcid.org/0009-0005-8227-835X
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
