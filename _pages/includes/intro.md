@@ -1,4 +1,4 @@
-Hi there👋🏻, I am Lijian Lin, a Computer Vision Researcher at [International Digital Economy Academy (IDEA)](https://idea.edu.cn)<img src='./images/idea.jpg' style='width: 2.5em;'>. Previously, I was a Computer Vision Researcher at [Tencent ARC Lab](https://arc.tencent.com/zh/index).
+I am Lijian Lin, a Computer Vision Researcher at [International Digital Economy Academy (IDEA)](https://idea.edu.cn)<img src='./images/idea.jpg' style='width: 2.5em;'>. Previously, I was a Computer Vision Researcher at [Tencent ARC Lab](https://arc.tencent.com/zh/index).
 
 My current research focuses on talking head generation, human video synthesis, talking body generation, human-centric 3D Gaussian Splatting, and video content generation. I welcome opportunities for academic collaboration — please feel free to contact me at linlijian@idea.edu.cn. I got my BS degree from Xiamen University in 2021, advised by Prof. [Hanzi Wan](https://pami.xmu.edu.cn/hanzi/).
 
