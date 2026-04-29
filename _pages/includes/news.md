@@ -1,4 +1,5 @@
 # 🔥 News
+- *[March, 2026]*: &nbsp;🎉 One SIGGRAPH paper is accepted. [Project](https://wujh2001.github.io/PEAR/) and [codes](https://github.com/Pixel-Talk/PEAR/) are released, welcome to star us!
 - *[July, 2025]*: &nbsp;🎉 One TVCG paper is accepted. Project and demos are coming soon.
 - *[June, 2025]*: &nbsp;🎉 Two ICCV papers are accepted. Codes and demos are coming soon.
 - *[May, 2025]*: &nbsp;🎉 We introcuce [**GUAVA**](https://eastbeanzhang.github.io/GUAVA/), a new Upper Body 3D Gaussian Avatar.

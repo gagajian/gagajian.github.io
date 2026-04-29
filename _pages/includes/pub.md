@@ -3,7 +3,7 @@
 
 > 📩 denotes corresponding author, 📌 denotes co-first author.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><img src='images/papers/sig26-pear.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><img src='images/papers/sig_pear.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [🍐 PEAR :Pixel-aligned Expressive humAn mesh Recovery](https://www.arxiv.org/abs/2601.22693)
