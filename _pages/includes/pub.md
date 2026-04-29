@@ -3,6 +3,32 @@
 
 > 📩 denotes corresponding author, 📌 denotes co-first author.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><img src='images/papers/sig26-pear.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[🍐 PEAR :Pixel-aligned Expressive humAn mesh Recovery](https://www.arxiv.org/abs/2601.22693)
+
+Jiahao Wu, Yunfei Liu, **Lijian Lin**, Ye Zhu, Lei Zhu, Jingyi Li, Yu Li
+
+[**Project**](https://wujh2001.github.io/PEAR/) | [**Code**](https://github.com/Pixel-Talk/PEAR) 
+- 🙆‍♂️ We propose **PEAR**, a unified framework for real-time expressive 3D human mesh recovery.
+- ⚡️ It is the first method capable of simultaneously predicting EHM-s parameters at **100 FPS**.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/projects/mango.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MANGO:Natural Multi-speaker 3D Talking Head Generation via 2D-Lifted Enhancement](https://arxiv.org/abs/2601.01749)
+
+Lei Zhu, **Lijian Lin**, Ye Zhu, Jiahao Wu, Xuehan Hou, Yu Li, Yunfei Liu, Jie Chen
+
+[**Project**](https://liuyunfei.net) | [**Video**](https://liuyunfei.net) 
+- 🧠 We propose MANGO, a two-stage framework using image-level supervision for realistic multi-speaker 3D motion and natural bidirectional listen-and-speak conversational behavior.
+- 🎭 With the MANGO-Dialog dataset, our method achieves highly accurate and controllable 3D dialogue heads.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='images/papers/qffusion.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -22,7 +48,7 @@ Maomao Li📌, **Lijian Lin📌**, Yunfei Liu, Ye Zhu, Yu Li
 
 [GUAVA: Generalizable Upper Body 3D Gaussian Avatar](https://arxiv.org/abs/2505.03351v1)
 
-Dongbin Zhang, Yunfei Liu📩, **Lijian Lin**, Ye Zhu, Yang Li, Minghan Qin, Yu Li, Haoqian Wang📩
+Dongbin Zhang, Yunfei Liu, **Lijian Lin**, Ye Zhu, Yang Li, Minghan Qin, Yu Li, Haoqian Wang📩
 
 [**Project**](https://eastbeanzhang.github.io/GUAVA/) | [**Video**](https://youtu.be/ylyTO34l5d0) 
 - ⚡️ Reconstructs 3D upper-body Gaussian avatars from single image in 0.1s 
