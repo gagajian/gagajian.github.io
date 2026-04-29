@@ -5,4 +5,4 @@ My current research focuses on talking head generation, human video synthesis, t
 
 I serve as a reviewer for international conferences, *e.g.*, CVPR, NeuIPS, ICLR, ICML, ICCV, CVPR, ACM MM, AAAI, *etc.*.
 
-> 👏 <span style="color:orange;"> We are currently looking for self-motivated interns to explore cutting-edge techniques such as Gaussian Splatting and DM/FM. Feel free to [contact me](mailto:linlijian@idea.edu.cn) if you are interested. [zhihu](https://zhuanlan.zhihu.com/p/582929545) </span>
+> 👏 <span style="color:orange;"> We are currently looking for self-motivated interns to explore cutting-edge techniques such as Motion Generation / Co-Speech Gesture Generation and DM/FM. Feel free to [contact me](mailto:linlijian@idea.edu.cn) if you are interested. [zhihu](https://zhuanlan.zhihu.com/p/582929545) </span>
