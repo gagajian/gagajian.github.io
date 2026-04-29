@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lijian Lin"
-description              : "Researcher at International Digital Economy Academy (IDEA), Vistring Lab. Focusing on human-centric computer vision and video content generation."
+description              : "Researcher at International Digital Economy Academy (IDEA), CTO Labs. Focusing on human-centric computer vision and video content generation."
 repository               : "gagajian/gagajian.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lijian Lin (林丽健)"
   avatar           : "images/ljlin.png"
-  bio              : "IDEA, Vistring Lab"
+  bio              : "IDEA, CTO Labs"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
