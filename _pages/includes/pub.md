@@ -16,7 +16,7 @@ Jiahao Wu, Yunfei Liu, **Lijian Lin**, Ye Zhu, Lei Zhu, Jingyi Li, Yu Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/projects/mango.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/projects/mango.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MANGO:Natural Multi-speaker 3D Talking Head Generation via 2D-Lifted Enhancement](https://arxiv.org/abs/2601.01749)
