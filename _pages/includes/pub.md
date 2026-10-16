@@ -12,6 +12,8 @@
 [**Project**](https://gagajian.github.io/MIRA/) 
 - We propose MIRA, a real-time full-duplex human-robot interaction system for embodied companions.
 - We deploy MIRA on a real-word humanoid robot to demonstrate its effectiveness.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><img src='images/papers/sig_pear.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
