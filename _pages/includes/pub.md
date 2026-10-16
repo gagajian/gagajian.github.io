@@ -3,6 +3,16 @@
 
 > 📩 denotes corresponding author, 📌 denotes co-first author.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/mira_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions](https://arxiv.org/abs/2609.24547)
+
+**Lijian Lin**, Ye Zhu, Fan Zhang, Yunfei Liu, Baofeng Li, Xianwen Zeng, Jianan Wang, Yu Li
+
+[**Project**](https://gagajian.github.io/MIRA/) 
+- We propose MIRA, a real-time full-duplex human-robot interaction system for embodied companions.
+- We deploy MIRA on a real-word humanoid robot to demonstrate its effectiveness.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><img src='images/papers/sig_pear.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
